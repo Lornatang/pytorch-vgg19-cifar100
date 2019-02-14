@@ -117,3 +117,5 @@ dmypy.json
 # My work
 .idea/
 data/
+*.pth
+.DS_Store
